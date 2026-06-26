@@ -26,6 +26,25 @@ frontend/
 
 ## 💡 Purpose
 This project helps travel agencies reduce manual verification work by automatically checking ticket and Aadhaar details and generating reports.
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Home Page
+
+![Home](images/home.png)
+
+---
+
+## ✅ Verification Summary
+
+![Summary](images/summary.png)
+
+---
+
+## 📊 Generated Excel Report
+
+![Report](images/report.png)
 
 ## 👨‍💻 Developer
 **Parrv Chhibber**
